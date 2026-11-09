@@ -1,0 +1,30 @@
+**Budoor Alhebsi**
+
+**Phase 4**
+
+- Section 1 — Context Diagram
+  - 1.1 External Entities and Data Exchanges
+  - 1.2 Context Diagram
+- Section 2 — Data-Flow Diagrams
+  - 2.1 Level 1 DFD
+  - 2.2 Level 2 DFDs (Processes 1.0–7.0, with sub-process and requirement tables)
+  - 2.3 Balancing Table (Tables 2.3a–2.3h)
+  - 2.4 Data-Store Descriptions
+- UI mockup
+  - 7.1 Asset Registration
+  - 7.2 Resource-Request Submission
+  - 7.8 Conversational Assistant
+
+**Phase 5**
+
+- Section 8 — Detailed Design and Modelling
+  - 8.1 Overall Use-Case Diagram
+  - 8.2 Class Diagram (five views with aggregation/composition and inheritance, Table 8.2)
+  - 8.3.1–8.3.2 Sequence Diagrams
+  - 8.6 Component Diagram
+  - 8.7 Deployment Diagram
+  - 8.8 AI Recommendation Workflow
+  - 8.9 Entity-Relationship Diagram
+  - 8.10 Interface Contracts
+  - 8.11 Compatibility Scoring and Ranking
+  - 8.13 Model-Monitoring Records
